@@ -1,0 +1,29 @@
+<h1>Dialog</h1>
+
+<h2>Thông tin chi tiết:</h2>
+<button id="openBtn">Click để biết thêm!</button>
+<dialog id="dialog">
+  <button id="closeBtn">close</button>
+  <ul>
+    <li>
+      <h4>NIIT - ICT Hà Nội là ai?</h4>
+      <p>NIIT - ICT Hà Nội là đơn vị liên kết trực tiếp với Viện Công nghệ Thông tin Quốc gia Ấn Độ (NIIT). Chuyên cung cấp các chương trình đào tạo Lập trình viên chuẩn Quốc tế tại Hà Nội</p>
+    </li>
+    <li>
+      <h4>Số năm thành lập</h4>
+      <p>NIIT Ấn Độ: 36+ năm</p>
+      <p>NIIT - ICT Hà Nội: 16+ năm</p>
+    </li>
+    <li>
+      <h4>Các kênh chính thức</h4>
+      <p>Website: https://niithanoi.edu.vn</p>
+      <p>Fanpage: https://www.facebook.com/NIIT.ICT/</p>
+    </li>
+    <li>
+      <h4>Thông tin liên hệ</h4>
+      <p>SĐT: 02435574074</p>
+      <p>Đc: Tẩng 3, tòa nhà 25T2, Nguyễn Thị Thập, Cầu Giấy, Hà Nội</p>
+    </li>
+  </ul>
+
+</dialog>
